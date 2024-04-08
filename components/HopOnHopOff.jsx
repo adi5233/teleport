@@ -17,6 +17,7 @@ const HopOnHopOff = () => {
 
   const handleAddWishlist = (destination) => {
     dispatch(wishlistActions.addToWishlist(destination));
+    alert("Added to watchlist.");
   };
   return (
     <div className="my-10 px-5 md:px-10">

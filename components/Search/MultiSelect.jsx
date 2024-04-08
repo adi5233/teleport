@@ -32,7 +32,7 @@ const MultiSelect = ({ name }) => {
   useEffect(() => {
     const timer = setTimeout(() => {
       fetchAirportsData();
-    }, 200);
+    }, 50);
     return () => {
       clearTimeout(timer);
     };
@@ -70,7 +70,7 @@ const MultiSelect = ({ name }) => {
       </div>
 
       {suggestions.length > 1 && (
-        <div className="absolute mt-2 p-2 bg-white">
+        <div className="absolute mt-2 p-2 bg-white shadow-xl">
           {suggestions.map((s) => (
             <div
               key={s.name}

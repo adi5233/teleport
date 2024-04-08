@@ -1,6 +1,5 @@
 "use client";
 import MultiSelect from "./MultiSelect";
-import Image from "next/image";
 import { useDispatch } from "react-redux";
 import { searchActions } from "@/lib/redux/searchSlice";
 import DatePicker from "./DatePicker";

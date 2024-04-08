@@ -1,0 +1,44 @@
+[
+  {
+    "place": "New Delhi, DL",
+    "price": "₹ 12,827",
+    "image": "https://www.kayak.co.in/rimg/dimg/6d/77/0cc45283-city-32821-176ddb032b7.jpg?crop=true&height=734",
+    "imageName": "delhi"
+  },
+  {
+    "place": "Kolkota, WB",
+    "price": "₹ 8,079",
+    "image": "https://www.kayak.co.in/rimg/dimg/db/3c/2ee51cf2-city-44834-1656d04f5de.jpg?crop=true&height=734",
+    "imageName": "kolkota"
+  },
+  {
+    "place": "Mumbai, MH",
+    "price": "₹ 18,122",
+    "image": "https://www.kayak.co.in/rimg/dimg/50/92/cd4e2dcb-city-31288-16561d77fbf.jpg?crop=true&height=734",
+    "imageName": "mumbai"
+  },
+  {
+    "place": "Chennai, TN",
+    "price": "₹ 9,423",
+    "image": "https://www.kayak.co.in/rimg/dimg/87/40/f4fce95d-city-13827-16037ab5647.jpg?crop=true&height=734",
+    "imageName": "chennai"
+  },
+  {
+    "place": "Hydrabaad, TG",
+    "price": "₹ 8,234",
+    "image": "https://www.kayak.co.in/rimg/dimg/a9/b2/ca54450a-city-7297-164a3add188.jpg?crop=true&height=734",
+    "imageName": "hydrabaad"
+  },
+  {
+    "place": "Bengaluru, KA",
+    "price": "₹ 14,987",
+    "image": "https://www.kayak.co.in/rimg/dimg/62/f6/c81781c0-city-14559-166f2c60754.jpg?crop=true&height=734",
+    "imageName": "bengaluru"
+  },
+  {
+    "place": "Varanasi, UP",
+    "price": "₹ 11,754",
+    "image": "https://www.kayak.co.in/rimg/dimg/05/d3/dd334941-city-49788-163bc6a1966.jpg?crop=true&height=734",
+    "imageName": "varanasi"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "iconURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNsb3VkLWRvd25sb2FkIj48cGF0aCBkPSJNNCAxNC44OTlBNyA3IDAgMSAxIDE1LjcxIDhoMS43OWE0LjUgNC41IDAgMCAxIDIuNSA4LjI0MiIvPjxwYXRoIGQ9Ik0xMiAxMnY5Ii8+PHBhdGggZD0ibTggMTcgNCA0IDQtNCIvPjwvc3ZnPg==",
+    "title": "Search for the best flight deals",
+    "text": "Search for the best flight deals from 900+ travel sites. No need to search multiple websites, KAYAK allows you to compare all of them in one place"
+  },
+  {
+    "iconURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXJlY3ljbGUiPjxwYXRoIGQ9Ik03IDE5SDQuODE1YTEuODMgMS44MyAwIDAgMS0xLjU3LS44ODEgMS43ODUgMS43ODUgMCAwIDEtLjAwNC0xLjc4NEw3LjE5NiA5LjUiLz48cGF0aCBkPSJNMTEgMTloOC4yMDNhMS44MyAxLjgzIDAgMCAwIDEuNTU2LS44OSAxLjc4NCAxLjc4NCAwIDAgMCAwLTEuNzc1bC0xLjIyNi0yLjEyIi8+PHBhdGggZD0ibTE0IDE2LTMgMyAzIDMiLz48cGF0aCBkPSJNOC4yOTMgMTMuNTk2IDcuMTk2IDkuNSAzLjEgMTAuNTk4Ii8+PHBhdGggZD0ibTkuMzQ0IDUuODExIDEuMDkzLTEuODkyQTEuODMgMS44MyAwIDAgMSAxMS45ODUgM2ExLjc4NCAxLjc4NCAwIDAgMSAxLjU0Ni44ODhsMy45NDMgNi44NDMiLz48cGF0aCBkPSJtMTMuMzc4IDkuNjMzIDQuMDk2IDEuMDk4IDEuMDk3LTQuMDk2Ii8+PC9zdmc+",
+    "title": "Book with flexibility",
+    "text": "Easily find and filter flights that suit your different requirements, like no cancellation fees."
+  },
+  {
+    "iconURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNpcmNsZS1zbGFzaCI+PGxpbmUgeDE9IjkiIHgyPSIxNSIgeTE9IjE1IiB5Mj0iOSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PC9zdmc+",
+    "title": "Trusted and free",
+    "text": "We are completely free to use - no hidden charges or fees."
+  },
+  {
+    "iconURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1hcC1waW5uZWQiPjxwYXRoIGQ9Ik0xOCA4YzAgNC41LTYgOS02IDlzLTYtNC41LTYtOWE2IDYgMCAwIDEgMTIgMCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iMiIvPjxwYXRoIGQ9Ik04LjgzNSAxNEg1YTEgMSAwIDAgMC0uOS43bC0yIDZjLS4xLjEtLjEuMi0uMS4zIDAgLjYuNCAxIDEgMWgxOGMuNiAwIDEtLjQgMS0xIDAtLjEgMC0uMi0uMS0uM2wtMi02YTEgMSAwIDAgMC0uOS0uN2gtMy44MzUiLz48L3N2Zz4=",
+    "title": "Easy to use trip planning tools",
+    "text": "With useful tools like trip planner, flight tracker and bag measure, KAYAK is more than just a flight search site - it is your complete travel partner."
+  }
+]

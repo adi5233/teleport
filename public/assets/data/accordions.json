@@ -1,0 +1,229 @@
+[
+  {
+    "title": "New Delhi",
+    "placeAndPrices": [
+      { "place": "Hotel Ajanta", "price": "₹ 1,838+" },
+      { "place": "Hotel Hari Piorko", "price": "₹ 2,249+" },
+      { "place": "Hotel City Star", "price": "₹ 2,832+" },
+      { "place": "Iidl Suites", "price": "₹ 4,979+" },
+      { "place": "ibis New Delhi Aerocity", "price": "₹ 5,827+" },
+      { "place": "The Umrao", "price": "₹ 6,076+" },
+      { "place": "Red Fox Hotel, Delhi Airport", "price": "₹ 6,148+" },
+      { "place": "Hyatt Centric Janakpuri New Delhi", "price": "₹ 6,245+" },
+      { "place": "The Suryaa New Delhi", "price": "₹ 6,663+" },
+      {
+        "place": "The Metropolitan Hotel and Spa New Delhi",
+        "price": "₹ 6,747+"
+      },
+      { "place": "Radisson Blu New Delhi Dwarka", "price": "₹ 6,815+" },
+      { "place": "Jaypee Vasant Continental", "price": "₹ 7,401+" },
+      { "place": "Jaypee Siddharth", "price": "₹ 7,534+" },
+      { "place": "Crowne Plaza New Delhi Rohini", "price": "₹ 7,558+" },
+      {
+        "place": "Welcomhotel By Itc Hotels, Dwarka, New Delhi",
+        "price": "₹ 7,570+"
+      },
+      { "place": "Flight Jaipur - New Delhi (JAI - DEL)", "price": "₹ 3,582+" },
+      {
+        "place": "Flight Chandigarh - New Delhi (IXC - DEL)",
+        "price": "₹ 3,831+"
+      },
+      {
+        "place": "Flight Lucknow - New Delhi (LKO - DEL)",
+        "price": "₹ 5,581+"
+      },
+      {
+        "place": "Flight Amritsar - New Delhi (ATQ - DEL)",
+        "price": "₹ 5,997+"
+      },
+      {
+        "place": "Flight Ahmedabad - New Delhi (AMD - DEL)",
+        "price": "₹ 6,830+"
+      },
+      { "place": "Flight Indore - New Delhi (IDR - DEL)", "price": "₹ 7,413+" },
+      { "place": "Flight Patna - New Delhi (PAT - DEL)", "price": "₹ 7,413+" },
+      { "place": "Flight Mumbai - New Delhi (BOM - DEL)", "price": "₹ 7,913+" },
+      { "place": "Flight Raipur - New Delhi (RPR - DEL)", "price": "₹ 7,996+" },
+      { "place": "Flight Nagpur - New Delhi (NAG - DEL)", "price": "₹ 8,329+" },
+      {
+        "place": "Flight Varanasi - New Delhi (VNS - DEL)",
+        "price": "₹ 8,329+"
+      },
+      {
+        "place": "Flight Hyderabad - New Delhi (HYD - DEL)",
+        "price": "₹ 8,662+"
+      },
+      { "place": "Flight Pune - New Delhi (PNQ - DEL)", "price": "₹ 8,996+" },
+      {
+        "place": "Flight Chennai - New Delhi (MAA - DEL)",
+        "price": "₹ 9,495+"
+      },
+      { "place": "Flight Kolkata - New Delhi (CCU - DEL)", "price": "₹ 9,662+" }
+    ]
+  },
+  {
+    "title": " New York",
+    "placeAndPrices": [
+      { "place": "Hi New York City Hostel", "price": "₹ 4,950+" },
+      { "place": "West Side Ymca", "price": "₹ 9,417+" },
+      { "place": "Central Park West Hostel", "price": "₹ 13,099+" },
+      { "place": "Pod 51", "price": "₹ 15,098+" },
+      { "place": "Flight Mumbai - New York (BOM - JFK)", "price": "₹ 66,884+" },
+      {
+        "place": "Flight Ahmedabad - New York (AMD - JFK)",
+        "price": "₹ 73,630+"
+      },
+      {
+        "place": "Flight Kolkata - New York (CCU - JFK)",
+        "price": "₹ 73,964+"
+      },
+      {
+        "place": "Flight New Delhi - New York (DEL - JFK)",
+        "price": "₹ 74,547+"
+      }
+    ]
+  },
+  {
+    "title": "Mumbai",
+    "placeAndPrices": [
+      { "place": "New Shahana - Hostel", "price": "₹ 583+" },
+      { "place": "Vits Mumbai International Airport", "price": "₹ 5,604+" },
+      {
+        "place": "Niranta Transit Hotel Terminal 2 Arrivals/Landside",
+        "price": "₹ 6,064+"
+      },
+      { "place": "Hotel Suba International", "price": "₹ 6,093+" },
+      { "place": "Residency Hotel - Fort - Mumbai", "price": "₹ 6,384+" },
+      { "place": "The Resort", "price": "₹ 6,414+" },
+      { "place": "ibis Mumbai Airport", "price": "₹ 6,824+" },
+      { "place": "Flight Ahmedabad - Mumbai (AMD - BOM)", "price": "₹ 3,998+" },
+      {
+        "place": "Flight Vasco da Gama - Mumbai (GOI - BOM)",
+        "price": "₹ 5,081+"
+      },
+      { "place": "Flight Hyderabad - Mumbai (HYD - BOM)", "price": "₹ 5,247+" },
+      { "place": "Flight Pune - Mumbai (PNQ - BOM)", "price": "₹ 5,247+" },
+      { "place": "Flight Bengaluru - Mumbai (BLR - BOM)", "price": "₹ 5,914+" },
+      {
+        "place": "Flight Coimbatore - Mumbai (CJB - BOM)",
+        "price": "₹ 6,830+"
+      },
+      { "place": "Flight Nagpur - Mumbai (NAG - BOM)", "price": "₹ 7,746+" }
+    ]
+  },
+  {
+    "title": "Hydrabaad",
+    "placeAndPrices": [
+      { "place": "Fabhotel Royal Residency Lakdikapul", "price": "₹ 1,694+" },
+      { "place": "Katriya Hotel & Towers", "price": "₹ 2,332+" },
+      { "place": "Royalton, Hyderabad", "price": "₹ 3,498+" },
+      {
+        "place": "Flight Chennai - Hyderabad (MAA - HYD)",
+        "price": "₹ 4,581+"
+      },
+      {
+        "place": "Flight Bengaluru - Hyderabad (BLR - HYD)",
+        "price": "₹ 4,831+"
+      },
+      { "place": "Flight Mumbai - Hyderabad (BOM - HYD)", "price": "₹ 5,414+" }
+    ]
+  },
+  {
+    "title": "Ooty",
+    "placeAndPrices": [
+      { "place": "Hotel Blue Bird", "price": "₹ 1,317+" },
+      { "place": "Sv Residency", "price": "₹ 1,416+" },
+      { "place": "Hotel Maneck", "price": "₹ 1,999+" },
+      {
+        "place": "Flight Chennai - Coimbatore (MAA - CJB)",
+        "price": "₹ 6,497+"
+      },
+      {
+        "place": "Flight Bengaluru - Coimbatore (BLR - CJB)",
+        "price": "₹ 6,580+"
+      },
+      { "place": "Flight Mumbai - Coimbatore (BOM - CJB)", "price": "₹ 6,830+" }
+    ]
+  },
+  {
+    "title": "Jaipur",
+    "placeAndPrices": [
+      { "place": "Hotel Vaishnavi", "price": "₹ 750+" },
+      { "place": "Krishna Palace", "price": "₹ 1,333+" },
+      { "place": "Hotel Kalyan", "price": "₹ 1,468+" },
+      { "place": "Flight New Delhi - Jaipur (DEL - JAI)", "price": "₹ 3,498+" },
+      {
+        "place": "Flight Chandigarh - Jaipur (IXC - JAI)",
+        "price": "₹ 7,163+"
+      },
+      { "place": "Flight Mumbai - Jaipur (BOM - JAI)", "price": "₹ 7,246+" }
+    ]
+  },
+  {
+    "title": "Mumbai",
+    "placeAndPrices": [
+      { "place": "New Shahana - Hostel", "price": "₹ 583+" },
+      { "place": "Vits Mumbai International Airport", "price": "₹ 5,604+" },
+      {
+        "place": "Niranta Transit Hotel Terminal 2 Arrivals/Landside",
+        "price": "₹ 6,064+"
+      },
+      { "place": "Hotel Suba International", "price": "₹ 6,093+" },
+      { "place": "Residency Hotel - Fort - Mumbai", "price": "₹ 6,384+" },
+      { "place": "The Resort", "price": "₹ 6,414+" },
+      { "place": "ibis Mumbai Airport", "price": "₹ 6,824+" },
+      { "place": "Flight Ahmedabad - Mumbai (AMD - BOM)", "price": "₹ 3,998+" },
+      {
+        "place": "Flight Vasco da Gama - Mumbai (GOI - BOM)",
+        "price": "₹ 5,081+"
+      },
+      { "place": "Flight Hyderabad - Mumbai (HYD - BOM)", "price": "₹ 5,247+" },
+      { "place": "Flight Pune - Mumbai (PNQ - BOM)", "price": "₹ 5,247+" },
+      { "place": "Flight Bengaluru - Mumbai (BLR - BOM)", "price": "₹ 5,914+" },
+      {
+        "place": "Flight Coimbatore - Mumbai (CJB - BOM)",
+        "price": "₹ 6,830+"
+      },
+      { "place": "Flight Nagpur - Mumbai (NAG - BOM)", "price": "₹ 7,746+" }
+    ]
+  },
+  {
+    "title": "Hydrabaad",
+    "placeAndPrices": [
+      { "place": "Fabhotel Royal Residency Lakdikapul", "price": "₹ 1,694+" },
+      { "place": "Katriya Hotel & Towers", "price": "₹ 2,332+" },
+      { "place": "Royalton, Hyderabad", "price": "₹ 3,498+" },
+      {
+        "place": "Flight Chennai - Hyderabad (MAA - HYD)",
+        "price": "₹ 4,581+"
+      },
+      {
+        "place": "Flight Bengaluru - Hyderabad (BLR - HYD)",
+        "price": "₹ 4,831+"
+      },
+      { "place": "Flight Mumbai - Hyderabad (BOM - HYD)", "price": "₹ 5,414+" }
+    ]
+  },
+  {
+    "title": " New York",
+    "placeAndPrices": [
+      { "place": "Hi New York City Hostel", "price": "₹ 4,950+" },
+      { "place": "West Side Ymca", "price": "₹ 9,417+" },
+      { "place": "Central Park West Hostel", "price": "₹ 13,099+" },
+      { "place": "Pod 51", "price": "₹ 15,098+" },
+      { "place": "Flight Mumbai - New York (BOM - JFK)", "price": "₹ 66,884+" },
+      {
+        "place": "Flight Ahmedabad - New York (AMD - JFK)",
+        "price": "₹ 73,630+"
+      },
+      {
+        "place": "Flight Kolkata - New York (CCU - JFK)",
+        "price": "₹ 73,964+"
+      },
+      {
+        "place": "Flight New Delhi - New York (DEL - JFK)",
+        "price": "₹ 74,547+"
+      }
+    ]
+  }
+]
